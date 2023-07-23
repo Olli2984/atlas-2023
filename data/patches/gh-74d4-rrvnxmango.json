@@ -1,0 +1,48 @@
+{
+	"id": -1,
+	"name": "r/rvnxmango",
+	"description": "The subreddit of the Streamer and YouTuber \"RvNxMango\". He made a summary of the r/place Event in 2022",
+	"links": {
+		"subreddit": [
+			"rvnxmango"
+		]
+	},
+	"path": {
+		"153": [
+			[
+				-999,
+				-432
+			],
+			[
+				-936,
+				-432
+			],
+			[
+				-936,
+				-437
+			],
+			[
+				-988,
+				-437
+			],
+			[
+				-990,
+				-439
+			],
+			[
+				-999,
+				-437
+			],
+			[
+				-999,
+				-432
+			]
+		]
+	},
+	"center": {
+		"153": [
+			-991,
+			-435
+		]
+	}
+}
